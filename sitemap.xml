@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.vektorenerji.com.tr/</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://www.vektorenerji.com.tr/assets/vektor-enerji-elbistan-dukkan.jpeg</image:loc>
+      <image:title>Vektör Enerji Elbistan</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.vektorenerji.com.tr/gunes-enerjili-su-pompasi-elbistan.html</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.vektorenerji.com.tr/assets/solinved-gunes-enerjili-su-pompasi.webp</image:loc>
+      <image:title>Elbistan Güneş Enerjili Su Pompası</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.vektorenerji.com.tr/gunes-enerjisi-elbistan.html</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://www.vektorenerji.com.tr/assets/hizmet-gunes-paneli.jpg</image:loc>
+      <image:title>Elbistan Güneş Enerjisi (GES) Kurulumu</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.vektorenerji.com.tr/isi-pompasi-elbistan.html</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.vektorenerji.com.tr/assets/hizmet-isi-pompasi.jpg</image:loc>
+      <image:title>Elbistan Isı Pompası Satış ve Montaj</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.vektorenerji.com.tr/gunes-enerjili-kamera-elbistan.html</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.vektorenerji.com.tr/assets/solinved-cm22-kamera-urun.webp</image:loc>
+      <image:title>Elbistan Güneş Enerjili Güvenlik Kamerası</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.vektorenerji.com.tr/ag-og-elektrik-elbistan.html</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.vektorenerji.com.tr/assets/hizmet-agog-elektrik.jpg</image:loc>
+      <image:title>Elbistan AG/OG Elektrik Tesisatı</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.vektorenerji.com.tr/elektrik-proje-cizimi-elbistan.html</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://www.vektorenerji.com.tr/assets/hizmet-proje-cizimi.jpg</image:loc>
+      <image:title>Elbistan Elektrik Proje Çizimi ve Saat Bağlama</image:title>
+    </image:image>
+  </url>
+</urlset>

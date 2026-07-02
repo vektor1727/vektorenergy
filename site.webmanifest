@@ -1,0 +1,13 @@
+{
+  "name": "Vektör Enerji",
+  "short_name": "Vektör Enerji",
+  "description": "Elbistan güneş enerjisi, elektrik mühendisliği, AG/OG, ısı pompası ve güvenlik kamerası çözümleri.",
+  "lang": "tr",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#141a26",
+  "theme_color": "#141a26",
+  "icons": [
+    { "src": "assets/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
