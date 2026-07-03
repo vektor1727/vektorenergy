@@ -70,42 +70,37 @@ a{color:inherit;text-decoration:none}
 .main-nav{display:flex;gap:6px;margin-left:auto}
 .main-nav a{color:#cdd4df;padding:9px 13px;border-radius:8px;font-weight:600;font-size:.95rem;transition:color var(--t),background var(--t)}
 .main-nav a:hover{color:#fff;background:rgba(255,255,255,.08)}
-.header-phones {
+.header-phones-wrap {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-left: 6px;
+}
+.header-phone-btn {
   display: inline-flex;
   align-items: center;
   gap: 6px;
   background: var(--grad);
   color: #0e2b14;
-  padding: 8px 12px;
+  padding: 8px 14px;
   border-radius: 999px;
   font-weight: 700;
   font-size: 0.76rem;
   line-height: 1.2;
-  margin-left: 6px;
   box-shadow: 0 6px 16px -6px rgba(47, 154, 52, 0.4);
   animation: pulse-lime 2s infinite;
-  transition: transform var(--t);
+  transition: transform var(--t), opacity var(--t);
   white-space: nowrap;
+  text-decoration: none;
 }
-.header-phones:hover {
+.header-phone-btn:hover {
   animation: none;
   transform: translateY(-2px);
+  opacity: 0.9;
 }
-.header-phones svg {
+.header-phone-btn svg {
   flex-shrink: 0;
   color: #0e2b14;
-}
-.header-phones a {
-  color: #0e2b14;
-  transition: opacity 0.2s;
-}
-.header-phones a:hover {
-  opacity: 0.7;
-}
-.header-phones .phone-sep {
-  opacity: 0.35;
-  font-weight: 400;
-  margin: 0 2px;
 }
 .nav-toggle{display:none;flex-direction:column;gap:5px;background:none;border:0;cursor:pointer;padding:8px;margin-left:auto}
 .nav-toggle span{width:26px;height:3px;background:#fff;border-radius:3px;transition:var(--t)}
@@ -530,7 +525,7 @@ a{color:inherit;text-decoration:none}
   .main-nav.open{transform:translateY(0)}
   .main-nav a{padding:14px 12px;border-radius:8px;border-bottom:1px solid rgba(255,255,255,.05)}
   .nav-toggle{display:flex}
-  .header-phones{display:none}
+  .header-phones-wrap{display:none}
   .values-grid{grid-template-columns:1fr}
   .value{border-left:0;border-top:1px solid rgba(255,255,255,.07)}
   .value:first-child{border-top:0}

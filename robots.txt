@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.vektorenerji.com.tr/sitemap.xml
+Sitemap: https://www.vectorenergy.com.tr/sitemap.xml
